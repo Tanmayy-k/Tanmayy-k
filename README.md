@@ -9,7 +9,6 @@ Building scalable backend systems, AI-powered applications, and production-ready
 </p>
 
 ---
-
 # 💫 About Me
 
 🔭 **I'm currently working on**
@@ -137,4 +136,5 @@ Machine Learning application for employee performance analysis using predictive 
 ---
 
 > **"Building scalable software, exploring AI, and continuously learning to engineer better solutions."** 🚀
+
 
